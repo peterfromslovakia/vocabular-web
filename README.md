@@ -1,25 +1,15 @@
-# Vocabular
+# Vocabular Web
 
-**Aplikácia na precvičovanie anglicko-slovenských slovíčok**
+Toto je webstránka programu **Vocabular**, ktorá slúži na jeho prezentáciu a poskytnutie inštalačného súboru.
 
-## O aplikácii
+## Webová stránka
 
-Vocabular je desktopová aplikácia vyvinutá pomocou frameworku Electron. Slúži na precvičovanie slovíčok v angličtine a slovenčine. Používateľ si môže pridávať vlastné slovíčka, testovať sa z existujúcej databázy a spravovať zoznam slovíčok jednoducho a intuitívne.
+Webstránku si môžete pozrieť na tomto odkaze:
+👉 [https://peterfromslovakia.github.io/vocabular-web/](https://peterfromslovakia.github.io/vocabular-web/)
 
-## Hlavné funkcie
+Stránka obsahuje základné informácie o aplikácii a možnosť stiahnuť si inštalačný súbor.
 
-- **Pridávanie slovíčok**: Možnosť pridávať vlastné slovíčka do databázy.
-- **Testovanie**: Precvičovanie prekladov s automatickým vyhodnotením.
-- **Výsledky testov**: Štatistiky správnych a nesprávnych odpovedí, vrátane najčastejšie nesprávnych slovíčok.
-- **Správa databázy**: Vyhľadávanie, mazanie a spravovanie existujúcich slovíčok.
-- **Podpora výslovnosti**: Možnosť prehrávania výslovnosti anglických slovíčok.
+## Ďalšie informácie
 
-## Inštalácia
-
-1. Stiahnite si inštalačný súbor z [releases](https://github.com/peterfromslovakia/vocabular/releases).
-2. Spustite inštalátor a postupujte podľa pokynov.
-3. Po inštalácii bude aplikácia dostupná cez ikonu na ploche.
-
-## Podpora a prispievanie
-
-Ak chcete podporiť tento projekt, môžete si kúpiť kávu cez [Buy Me a Coffee](https://buymeacoffee.com/peter_obala).
+Ak sa chcete dozvedieť viac o programe a jeho zdrojových kódoch, navštívte repozitár:
+👉 [https://github.com/peterfromslovakia/vocabular-program](https://github.com/peterfromslovakia/vocabular-program)
