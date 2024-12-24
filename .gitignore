@@ -5,8 +5,22 @@ node_modules/
 build/
 dist/
 
+# Source code
+src/
+
 # Environment variables
 .env
 
 # Log files
 *.log
+
+# Package management files
+package.json
+package-lock.json
+
+# Operating system files
+.DS_Store
+
+# Other editor/system-specific files
+.idea/
+.vscode/
