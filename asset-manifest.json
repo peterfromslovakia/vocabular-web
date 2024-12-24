@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/vocabular/static/js/main.b7f314d3.js",
+    "static/media/bmc_qr.png": "/vocabular/static/media/bmc_qr.1aa3893e1aa0d5992573.png",
+    "index.html": "/vocabular/index.html",
+    "main.b7f314d3.js.map": "/vocabular/static/js/main.b7f314d3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b7f314d3.js"
+  ]
+}
