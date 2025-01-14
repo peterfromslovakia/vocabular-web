@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/vocabular-web/static/js/main.7a6ea87e.js",
+    "main.js": "/vocabular-web/static/js/main.2f3adee4.js",
     "static/media/bmc_qr.png": "/vocabular-web/static/media/bmc_qr.1aa3893e1aa0d5992573.png",
     "index.html": "/vocabular-web/index.html",
-    "main.7a6ea87e.js.map": "/vocabular-web/static/js/main.7a6ea87e.js.map"
+    "main.2f3adee4.js.map": "/vocabular-web/static/js/main.2f3adee4.js.map"
   },
   "entrypoints": [
-    "static/js/main.7a6ea87e.js"
+    "static/js/main.2f3adee4.js"
   ]
 }
