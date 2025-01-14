@@ -6,7 +6,7 @@ function AboutPage() {
     <div style={{ padding: "30px 20px", textAlign: "center", lineHeight: "1.8", fontSize: "18px" }}>
       <h2 style={{ textAlign: "center", marginBottom: "20px", fontSize: "28px" }}>O mne</h2>
       <p>
-        <strong>Volám sa Peter Obala</strong>, pochádzam zo Slovenska, konkrétne z mesta Bratislava, a narodil som sa v roku
+        <strong>Volám sa Peter Obala</strong>, pochádzam zo Slovenska, z mesta Bratislava, a narodil som sa v roku
         1976. Viac ako 22 rokov som pôsobil ako IT špecialista v jednej spoločnosti, kde som získal bohaté skúsenosti v oblasti
         správy IT systémov, monitorovania a automatizácie. Počas svojej kariéry som aktívne pracoval s rôznymi modernými
         technológiami, ako sú <strong>Zabbix</strong> na monitorovanie IT infraštruktúry, <strong>Pi-hole</strong> na správu DNS
@@ -21,8 +21,7 @@ function AboutPage() {
         Mojou vášňou je programovanie, ktorému som sa začal venovať v rámci svojich záujmov. Medzi moje najnovšie projekty patrí{" "}
         <strong>Vocabular</strong>, desktopová aplikácia pre precvičovanie anglicko-slovenských slovíčok. Táto aplikácia je
         výsledkom mojej túžby spojiť technológiu s praktickým nástrojom na učenie. Program som vytvoril nielen pre seba, ale aj
-        pre všetkých, ktorí chcú zlepšiť svoje jazykové znalosti. Pri tvorbe programu a webstránky mi výrazne pomohla umelá
-        inteligencia, ktorá mi poskytla inšpiráciu a efektívne riešenia.
+        pre všetkých, ktorí sa chcú ucit slovíčka metodou : aké slovíčka si pridaš,také sa budeš učiť . 
       </p>
       <div style={{ marginTop: "40px", fontSize: "20px" }}>
         <h3>Kontaktujte ma:</h3>
