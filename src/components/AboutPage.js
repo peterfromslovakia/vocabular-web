@@ -5,7 +5,18 @@ function AboutPage() {
   return (
     <div style={{ padding: "30px 20px", textAlign: "center", fontSize: "18px" }}>
       <h2 style={{ marginBottom: "20px", fontSize: "28px" }}>O mne</h2>
-      <p>IT nadšenec a tvorca aplikácie Vocabular.</p>
+      <p>Som s výpočtovou technikou prepojený viac ako 20 rokov.</p>
+      <p>
+        Skontrolujte si gramatiku pomocou mojej ďalšej aplikácie:{" "}
+        <a
+          href="https://peterfromslovakia.github.io/Anglicka-Gramatika-web/"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: "#007BFF", textDecoration: "underline" }}
+        >
+          Anglická Gramatika
+        </a>.
+      </p>
       
       <div style={{ marginTop: "40px", fontSize: "20px" }}>
         <h3>Kontaktujte ma:</h3>
